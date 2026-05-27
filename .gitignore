@@ -1,0 +1,15 @@
+# Временные файлы
+*.tmp
+*.log
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Файлы IDE
+.vscode/
+.idea/
+
+# Данные с паролями (если появятся)
+.env
+config_local.json
